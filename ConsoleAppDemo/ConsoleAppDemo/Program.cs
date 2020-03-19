@@ -8,6 +8,11 @@ namespace ConsoleAppDemo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome srujan");
+            for(int i=0;i<=5;i++)
+            {
+                Console.WriteLine("Started Github" + i);
+                Console.ReadLine();
+            }
         }
     }
 }
